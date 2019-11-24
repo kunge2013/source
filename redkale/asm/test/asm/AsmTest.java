@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.LineNumberReader;
 
-import org.redkale.asm.Utility;
+import org.redkale.util.Utility;
 
 
 public class AsmTest {
